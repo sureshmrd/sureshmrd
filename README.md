@@ -1,4 +1,4 @@
-# 💫 Hello ! This is Suresh Madagala:
+# 💫 Hello ! This is Suresh Madagala
 🔭 I’m recent graduate from sir cr reddy college of engineering.<br>in the stream of Computer science and Engineering.<br>🌱 I’m currently learning React and working on projects related to<br>      React and Data Analysis.<br>
 
 
