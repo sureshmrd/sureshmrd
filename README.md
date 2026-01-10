@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Suresh Madagala</h1>
 <h3 align="center">A passionate Software developer & Tech Enthusiast</h3>
 
-(img align="right" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif](https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgwNjM3OTUsIm5iZiI6MTc2ODA2MzQ5NSwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTEwVDE2NDQ1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2ODM2NjFhMjgzNDU4MjhjNDQ5Y2UxMDgzMjczOTFlOTJkZTM2YTQyOTgyNTA2ZjE2NDg3MDg2NGYwN2U0OGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Lsp8RclxAjBEn_6MRnDLn4-hC7eg8EfsoYFhsfFF9tM)")
+(img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWt3bndibmc2ZWF2dTIwZm9vNnMzeDNld2I0enl3NXBmODl0ZjgzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshmrd&label=Profile%20views&color=0e75b6&style=flat" alt="sureshmrd" /> </p>
 
