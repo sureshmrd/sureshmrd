@@ -1,24 +1,110 @@
-# 💫 Hello ! This is Suresh Madagala
-🔭 I’m recent graduate from sir cr reddy college of engineering.<br>in the stream of Computer science and Engineering.<br>🌱 I’m currently learning Full Stack Java , React and working on projects related to<br>      React and SpringBoot<br>
+![Blue and White Architect LinkedIn Banner (1)](https://github.com/user-attachments/assets/13fbf49b-7998-4f36-85fd-453756456441)
 
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm a **Computer Science Graduate 🎓 and a Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrdmsd6677) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rama-durga-suresh-madagala-976bb9285/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mrdsuresh) 
+And I’m someone who enjoys learning by building and improving over time, drawing knowledge from various resources such as YouTube, blogs, articles, and more. The projects here reflect an end-to-end exploration of ideas — from understanding concepts and designing solutions to implementing them with care.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sureshmrd&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sureshmrd&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshmrd&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**`Learning | Building | Improving`** 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sureshmrd&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/sureshmrd/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sureshmrd/)](https://www.linkedin.com/in/sureshmrd)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/sureshmrd2002)](https://www.hackerrank.com/sureshmrd2002)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sureshmrd2002@gmail.com)](mailto:sureshmrd2002@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sureshmrd&icon=2&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table width="100%" cellpadding="16" cellspacing="0" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px; overflow: hidden;">
+  <tr>
+    <td valign="top" width="50%" style="border-right: 1px solid #30363d; background-color: #0d1117;">
+
+### 🌱 Currently
+
+- Exploring Agentic AI Workflows using LangGraph
+- Focusing on Building RAG based Systems 
+- Continuously improving on RELTIO MDM
+- Improving Programming Skills too.
+- Aim is to grow both Technically and Personally. 
+
+    </td>
+    <td valign="top" width="50%" style="background-color: #0d1117;">
+
+### 🧠 Interests (Beyond Work)
+
+- Reading and learning from different perspectives  
+- Appreciating good food more than I usually do  
+- Music as a constant background companion  
+- Minimalist thinking — in life and decisions  
+- Writing and journaling to organize thoughts 
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## Skill stack
+<!-- Skill icons provided by skill-icons. Full icon list and names:
+     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,git,github,javascript,mysql,html,sklearn,postman,fastapi&theme=light)](https://skillicons.dev)
+
+**Also comfortable with**: SQL (Oracle SQL & PLSQL), RELTIO MDM , Basic ML workflows.
+<!-- **Also Currently Learning**: [![My Skills](https://skillicons.dev/icons?i=aws,mongodb,docker,kubernetes&theme=light)](https://skillicons.dev) -->
+---
+## Projects - showcase
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
+        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
+             alt="DeepSeek AI Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>RAG AI Chatbot</b><br/>
+      <sub>Retrieve and answer's the questions from news articles using Retrieval-Augmented Generation.</sub><br/>
+      🔗 <a href="https://github.com/sureshmrd/rag_chatbot">Repo</a>
+      <br/>
+      <sub>Tags: AI, LLMs, RAG </sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
+        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
+             alt="CI/CD Pipeline Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Cloud CI/CD Pipeline</b><br/>
+      <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
+      <br/>
+      <sub>Tags: DevOps, Docker, GitHub Actions</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
+        <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237"
+             alt="VPC Networking Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Secure AWS VPC</b><br/>
+      <sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
+      <br/>
+      <sub>Tags: Networking, AWS, Security</sub>
+    </td>
+  </tr>
+</table>
+
+### 🚀 Quick Stats
+<p align="center">
+<img width="500" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=sureshmrd&show_icons=true&line_height=21&theme=react" alt="suresh's Github Stats" />
+<!-- <img width="340" height="155" align="center" 
+     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
+</p>
+
+## ✨ Fun Fact
+
+I enjoy keeping things simple — except when I’m explaining why they should be simple.
