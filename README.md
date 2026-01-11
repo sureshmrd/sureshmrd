@@ -59,7 +59,7 @@ And I’m someone who enjoys learning by building and improving over time, drawi
     <td align="center" width="33%">
       <a href="https://github.com/sureshmrd/rag_chatbot">
         <img src="./assets/rag-chatbot.png"
-             alt="DeepSeek AI Project"
+             alt="RAG AI Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
@@ -67,12 +67,12 @@ And I’m someone who enjoys learning by building and improving over time, drawi
       <sub>Retrieve and answer's the questions from news articles using Retrieval-Augmented Generation.</sub><br/>
       🔗 <a href="https://github.com/sureshmrd/rag_chatbot">Repo</a>
       <br/>
-      <sub>Tags: AI, LLMs, RAG </sub>
+      <sub>Tags: AI, LLMs, RAG, Gemini API </sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/sureshmrd/Research-Assistant.git">
-        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
-             alt="CI/CD Pipeline Project"
+        <img src="./assets/research-assistant.png"
+             alt="Research Assistant Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
@@ -83,17 +83,17 @@ And I’m someone who enjoys learning by building and improving over time, drawi
       <sub>Tags: Springboot,Gemini API, Chrome Extension</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
-        <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237"
-             alt="VPC Networking Project"
+      <a href="https://github.com/sureshmrd/Hyderabad-Metro-System-Application.git">
+        <img src="./assets/metro-app.png"
+             alt="Hyderbad Metro Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Secure AWS VPC</b><br/>
-      <sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
+      <b>Hyderabad Metro Simulation</b><br/>
+      <sub>web-based project that provides with metro-related information, like station details and the shortest route between two selected stations.</sub><br/>
+      🔗 <a href="https://github.com/sureshmrd/Hyderabad-Metro-System-Application.git">Repo</a>
       <br/>
-      <sub>Tags: Networking, AWS, Security</sub>
+      <sub>Tags: Java, JSP, Oracle, Dijkstras, Leaflet.js</sub>
     </td>
   </tr>
 </table>
