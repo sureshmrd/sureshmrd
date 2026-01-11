@@ -57,8 +57,8 @@ And I’m someone who enjoys learning by building and improving over time, drawi
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
-        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
+      <a href="https://github.com/sureshmrd/rag_chatbot">
+        <img src="./assets/rag-chatbot.png"
              alt="DeepSeek AI Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -70,17 +70,17 @@ And I’m someone who enjoys learning by building and improving over time, drawi
       <sub>Tags: AI, LLMs, RAG </sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
+      <a href="https://github.com/sureshmrd/Research-Assistant.git">
         <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
              alt="CI/CD Pipeline Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Cloud CI/CD Pipeline</b><br/>
-      <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
+      <b>Research-Assistant</b><br/>
+      <sub>A Research Assistant web extension built using Spring Boot (with Lombok) and Gemini API to help users conduct research efficiently.</sub><br/>
+      🔗 <a href="https://github.com/sureshmrd/Research-Assistant.git">Repo</a>
       <br/>
-      <sub>Tags: DevOps, Docker, GitHub Actions</sub>
+      <sub>Tags: Springboot,Gemini API, Chrome Extension</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
